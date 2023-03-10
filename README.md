@@ -4,12 +4,34 @@ Due to the current epidemic, major changes are occurring in the lifestyles of th
 
 ## Functions and Features
 1. User Login/Registry
+
+![User Login Image](1.png)
+
 2. Profile Editor
+
+![Profile Editor Image](2.png)
+
 3. Appointment Setting (for Doctor)
+
+![Appointment Setting for Doctor 1](3.png)
+![Appointment Setting for Doctor 2 ](4.png)
+
 4. Appointment Setting (for Patient)
+
+![Appointment Setting for Patient](5.png)
+
 5. Schedule Checker
+
+![Schedule Checker](6.png)
+
 6. Contact Tracing Visualizer
+
+![Contact Tracing Visualizer](7.png)
+
 7. Risk Checker
+
+![Risk Checker](8.png)
+
 
 ## Data Structures Used
 - Stack
